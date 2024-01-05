@@ -1,8 +1,8 @@
 # zscore_pvals_locfdr
 
-The intention of this project was to compare the effects of biases in 10-20 results of lists sorted by average reviews, by p-value, and with local false discovery rate - a Bayesian statistic. [Link to the completed paper.]([url](https://colab.research.google.com/drive/1KsOVZY-s884T0jOYFK4jzweSs4wL5Gu7#scrollTo=XWmVFdxNrvHL))
+The intention of this project was to compare the effects of biases in 10-20 results of lists sorted by average reviews, by p-value, and with local false discovery rate - a Bayesian statistic. [Link to the completed paper.](https://colab.research.google.com/drive/1KsOVZY-s884T0jOYFK4jzweSs4wL5Gu7#scrollTo=XWmVFdxNrvHL)
 
-This project the prelimenary parts of this project. In particular, it showcases a webscraper for a provided URL CSV of allrecipe (a recipe sharing site) links. 
+This codebase showcases the prelimenary components of this project. In particular, it showcases a webscraper for a provided URL CSV of allrecipe (a recipe sharing site) links. 
 
 `modifledSudhanScraper.py` refers to a list of URL CSVs of allrecipe links and generates a new URL CSV list with review frequencies on 6 new fields (5 star, 4, 3, 2, 1 star reviews and 1 total reviews column)
 
