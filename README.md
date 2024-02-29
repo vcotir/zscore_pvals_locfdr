@@ -1,6 +1,10 @@
 # zscore_pvals_locfdr
 
-The intention of this project was to compare the effects of biases in 10-20 results of lists sorted by average reviews, by p-value, and with local false discovery rate - a Bayesian statistic. [Link to the completed paper.](https://colab.research.google.com/drive/1KsOVZY-s884T0jOYFK4jzweSs4wL5Gu7#scrollTo=XWmVFdxNrvHL)
+Ranking is an important tool that guides the decision making of those observing the rankings (whether that be users viewing Google search results, Pintrest's recommendations, Netflix movies). For this reason, it is important that mathematical components behind ranking algorithms be studied to elucidate the biases of such ranking algorithms and make more informed intentional decisions based on more full awareness of the tradeoffs.
+
+The intention of this project was to compare the effects of biases in the top 10-20 results of lists sorted by average reviews, by p-value, and with local false discovery rate - a Bayesian statistic. 
+
+[Link to the completed paper.](https://colab.research.google.com/drive/1KsOVZY-s884T0jOYFK4jzweSs4wL5Gu7#scrollTo=XWmVFdxNrvHL)
 
 This codebase showcases the prelimenary components of this project. In particular, it showcases a webscraper for a provided URL CSV of allrecipe (a recipe sharing site) links. 
 
