@@ -1,6 +1,6 @@
 # zscore_pvals_locfdr
 
-Ranking is an important tool that guides the decision making of those observing the rankings (whether that be users viewing Google search results, Pintrest's recommendations, Netflix movies). For this reason, it is important that mathematical components behind ranking algorithms be studied to elucidate the biases of such ranking algorithms and make more informed intentional decisions based on more full awareness of the tradeoffs.
+Ranking is an important tool that guides the decision making of those observing the rankings (whether that be users viewing Google search results, Pintrest's recommendations, Netflix movies). For this reason, it is important that the mathematical components behind ranking algorithms be studied to elucidate biases.
 
 The intention of this project was to compare the effects of biases in the top 10-20 results of lists sorted by average reviews, by p-value, and with local false discovery rate - a Bayesian statistic. 
 
